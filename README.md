@@ -1,5 +1,5 @@
 # BlackJack AI game:
-This project was done in fufillment of Knowledge Representation and Reasoning module during my masters programme in AI.
+This project was done in fufillment of CMI3505 Knowledge Representation and Reasoning module for my masters programme in Artificial Intelligence.
 
 There are two players, You, and my AI. 
 
