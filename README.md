@@ -8,7 +8,7 @@ To make sure you can run this file,
 - Clone the repo
 - Download and install `Swipl` here - https://www.swi-prolog.org/download/stable
 - open your terminal and type in following instructions:
-    - BlackJack card game in Prolog
+    - Launching game from terminal
       =============================
       
       To play the game:
